@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d73083-dfc3-4d62-81be-564ff396a208" name="Changes" comment="Completed Task 3">
+    <list default="true" id="63d73083-dfc3-4d62-81be-564ff396a208" name="Changes" comment="Completed Task 6">
       <change afterPath="$PROJECT_DIR$/src/com/assignment/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assignment/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignment/data/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/data/Complex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignment/data/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/data/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignment/data/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/assignment/data/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,28 +44,17 @@
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
     "Application.Task4.executor": "Run",
+    "Application.Task6.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/deepenpatel/Desktop/JavaAssignment/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/deepenpatel/Desktop/JavaAssignment/src/Main.java",
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task4">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignment.Main" />
-      <module name="JavaAssignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task6">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.assignment.Task1" />
       <module name="JavaAssignment" />
@@ -117,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment.Task6" />
+      <module name="JavaAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -167,13 +170,31 @@
       <option name="project" value="LOCAL" />
       <updated>1706648537561</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed Task 4">
+      <option name="closed" value="true" />
+      <created>1706663017442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706663017442</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed Task 6">
+      <option name="closed" value="true" />
+      <created>1706734187815</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706734187815</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed Task 1" />
     <MESSAGE value="Completed Task 2" />
     <MESSAGE value="Completed Task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Task 3" />
+    <MESSAGE value="Completed Task 4" />
+    <MESSAGE value="Completed Task 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Task 6" />
   </component>
 </project>
